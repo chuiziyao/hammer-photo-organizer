@@ -21,9 +21,9 @@
 
 | 文件 | 说明 | 大小 |
 |---|---|---|
-| `HammerPhotoOrganizer_V2.0.exe` | 绿色版，解压即用，免安装 | ~40 MB |
-| `HammerPhotoOrganizer_V2.0_Setup.exe` | 安装版，双击安装 | ~42 MB |
-| `HammerPhoto_v2.0_Windows.zip` | 压缩包（含绿色版 + 安装版） | ~81 MB |
+| `HammerPhotoOrganizer_V2.0.exe` | 绿色版，解压即用，免安装 | ~38 MB |
+| `HammerPhotoOrganizer_V2.0_Setup.exe` | 安装版，双击安装 | ~40 MB |
+| `HammerPhoto_v2.0_Windows.zip` | 压缩包（含绿色版 + 安装版）| ~77 MB |
 
 ## 🚀 使用步骤
 
@@ -53,13 +53,11 @@
 
 ## 🖼 截图
 
-发布时请把 `screenshots/` 目录下的 4 张图作为 **Release 资源（Assets）** 上传，再把下面链接替换成对应的 Release 资源直链（形如 `https://github.com/<用户名>/<仓库>/releases/download/v2.0/01-main.png`）。
-
 | 截图 | 说明 |
 |---|---|
-| `screenshots/01-main.png` | 软件主界面：选文件夹、一键开始整理 |
-| `screenshots/02-done.png` | 整理完成弹窗：结果统计与产物目录 |
-| `screenshots/03-before.png` | 整理前：照片散落一团乱 |
-| `screenshots/04-after.png` | 整理后：按「年 / 月」归档整齐 |
+| ![软件主界面](https://github.com/chuiziyao/hammer-photo-organizer/releases/download/v2.0/screenshot-01-main.png) | 软件主界面：选文件夹、一键开始整理 |
+| ![整理完成弹窗](https://github.com/chuiziyao/hammer-photo-organizer/releases/download/v2.0/screenshot-02-done.png) | 整理完成弹窗：结果统计与产物目录 |
+| ![整理前](https://github.com/chuiziyao/hammer-photo-organizer/releases/download/v2.0/screenshot-03-before.png) | 整理前：照片散落一团乱 |
+| ![整理后](https://github.com/chuiziyao/hammer-photo-organizer/releases/download/v2.0/screenshot-04-after.png) | 整理后：按「年 / 月」归档整齐 |
 
-> 若不想逐张替换链接，也可直接把 4 张图拖进 GitHub Release 的「说明」编辑框，GitHub 会自动转成图床链接。
+> 若截图未加载，可在下方 Assets 区直接下载原图。
