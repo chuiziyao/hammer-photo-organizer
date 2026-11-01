@@ -11,7 +11,7 @@
 
 | 文件 | 说明 |
 |---|---|
-| `锤子照片整理工具_V2.2_Windows.zip` | 安装版压缩包：解压后运行 `锤子照片整理工具_V2.2_Windows/锤子照片整理工具_V2.2_Setup.exe`，按向导安装 |
+| `HammerPhotoOrganizer_V2.2_Windows.zip` | 安装版压缩包（与官网同包）：解压后运行 `锤子照片整理工具_V2.2_Windows/锤子照片整理工具_V2.2_Setup.exe`，按向导安装 |
 
 > 官网直链（始终最新版）：https://chuisoft.cn/hammer-photo-latest.php
 
@@ -59,3 +59,4 @@
 | ![整理后](https://github.com/chuiziyao/hammer-photo-organizer/releases/download/v2.2/screenshot-04-after.png) | 整理后：按「年 / 月」归档整齐 |
 
 > 若截图未加载，可在下方 Assets 区直接下载原图。
+
